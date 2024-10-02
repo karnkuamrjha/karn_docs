@@ -1,2 +1,3 @@
 # karn_docs
 #THIS RESPOSITORY ONLY WORK IN GITHUB LEARNING PURPOSE
+print("hello world")
